@@ -3,7 +3,7 @@
 
 int check_str(char arr[])         //This function is to check if the string contains only a , b , c  
 {
-    int i=0,flag=0,out;
+    int i=0,flag=0;
     while(arr[i]!='\0')
     {
         if(arr[i]=='a'|| arr[i]=='b' || arr[i]=='c')
