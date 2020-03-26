@@ -1,6 +1,6 @@
 # Regular_Expression_Follower
 
-THIS CODE IS WRITTEN IN C
+THIS CODE IS WRITTEN IN C.
 
 Given the regular expression R, we are writing a function that can determine whether any random string belongs
 to the language of R. Using the function to implement a regular expression based string search in a text
