@@ -12,4 +12,4 @@ function checks for the neccessary regular expression following.
 
 CONDITION:
 
-The regular expression is given as R = (a+b)* c c (a+b)*
+The regular expression is given as R = (a+b)* c c (a+b)* (here star "*" represents Kleen Star)
