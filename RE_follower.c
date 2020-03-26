@@ -72,8 +72,12 @@ int check_R(char a[])          //This function is the real string check that che
         }
         
     }
+      else
+      {
+            flag=1;
+      }    
     }
-    else
+    else   //This is for the strings not starting with a or b i.e. starting with c
     {
          flag=1;
     }
